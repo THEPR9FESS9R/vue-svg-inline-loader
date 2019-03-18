@@ -1,0 +1,26 @@
+{
+  "name": "vue-svg-inline-loader",
+  "version": "0.0.1",
+  "description": "Webpack Loader to add simple inline svg support to vue.js single file component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/THEPR9FESS9R/vue-svg-inline-loader.git"
+  },
+  "keywords": [
+    "vue",
+    "inline",
+    "loader",
+    "svg",
+    "vuejs"
+  ],
+  "author": "Pascal Korn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/THEPR9FESS9R/vue-svg-inline-loader/issues"
+  },
+  "homepage": "https://github.com/THEPR9FESS9R/vue-svg-inline-loader#readme"
+}
