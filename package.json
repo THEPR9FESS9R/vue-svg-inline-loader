@@ -1,6 +1,6 @@
 {
   "name": "vue-loader-svg-inliner",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Webpack Loader to add simple inline svg support to vue.js single file component",
   "main": "index.js",
   "scripts": {
