@@ -5,7 +5,7 @@ const SVGO = require('svgo')
 const svgoConfig = require('./svgo.config')
 
 /* define all regular expressions */
-const SVG_MARKER_REGEX = /(<i.*?\/>|<i.*?<\/i>)/
+const SVG_MARKER_REGEX = /(<i[\s\S.]*?\/>|<i[\s\S.]*?<\/i>)/
 const ATTRIBUTES_REGEX = /(\S*?=".*?")/
 const SVG_TAG_REGEX = /(<svg[/| |>])/
 
